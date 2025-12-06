@@ -24,7 +24,7 @@ return {
         ['SNOW'] = 0.0,
         ['SNOWLIGHT'] = 0.0,
         ['THUNDER'] = 0.1,
-        ['XMAS'] = 0.0
+        ['XMAS'] = 0.0,
         ['HALLOWEEN'] = 0.0
     },
 
